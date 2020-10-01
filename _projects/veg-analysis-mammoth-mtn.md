@@ -1,7 +1,7 @@
 ---
 name: Veg Analysis of Mammoth Mtn
 tools: [ArcMap, gis]
-image: http://placekitten.com/300/300
+image: /myassets/thumbnail_mammoth_mtn.jpg
 description: Used historical imagery to track deforestation on Mammoth Mountain, CA.
 ---
 

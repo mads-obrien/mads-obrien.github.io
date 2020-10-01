@@ -1,7 +1,7 @@
 ---
 name: Yale MESc thesis
 tools: [yale, gis, python, r]
-image: http://placekitten.com/450/300
+image: /myassets/thumbnail_uav_thesis.jpg
 description: Did the big scary thing! With drones
 ---
 

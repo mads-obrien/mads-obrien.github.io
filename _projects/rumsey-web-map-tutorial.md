@@ -1,7 +1,7 @@
 ---
 name: Web Mapping Tutorial for Rumsey Map Center
 tools: [stanford, gis, education]
-image: http://placekitten.com/250/250
+image: /myassets/thumbnail_rumsey_tutorial.png
 description: Wrote a tutorial to teach novices how to use historical web maps.
 ---
 

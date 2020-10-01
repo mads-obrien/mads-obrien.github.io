@@ -1,7 +1,7 @@
 ---
 name: Humanitarian Aid & Climate Change
 tools: [yale, writing, speaking]
-image: http://placekitten.com/200/300
+image: /myassets/thumbnail_humanitarian.jpg
 description: Helped write a paper and presented in Geneva, Switzerland.
 ---
 

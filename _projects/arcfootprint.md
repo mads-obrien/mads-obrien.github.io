@@ -1,7 +1,7 @@
 ---
 name: ArcFootprint
 tools: [yale, gis, python]
-image: http://placekitten.com/250/250
+image: /myassets/thumbnail_arcfootprint.jpg
 description: Wrote a custom ArcToolbox tool for gas footprint estimation.
 ---
 

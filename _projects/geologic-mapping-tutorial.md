@@ -1,7 +1,7 @@
 ---
 name: Geologic Mapping Tutorial
 tools: [stanford, gis, education]
-image: http://placekitten.com/250/250
+image: /myassets/thumbnail_geologic_tutorial.png
 description: Wrote a 3-hour tutorial for creating geologic maps using the USGS GEMS framework.
 ---
 

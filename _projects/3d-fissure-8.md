@@ -1,8 +1,8 @@
 ---
-name: 3D Model of Fissure 8, Kiauea
+name: Photogrammetry of Fissure 8, Kiauea
 tools: [yale, gis, python]
-image: http://placekitten.com/250/250
-description: Created 3D model of fissure structure from the 2018 Mount Kilauea eruption.
+image: /myassets/thumbnail_fissure_8.jpg
+description: Created 3D model of fissure structure from the 2018 Kilauea eruption to describe changes in its morphology.
 ---
 
 ## 3D Model of Fissure 8, Kilauea 2018 Eruption ##

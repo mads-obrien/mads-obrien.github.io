@@ -1,7 +1,7 @@
 ---
 name: Indonesia Map
 tools: [yale, gis, cartography]
-image: http://placekitten.com/250/250
+image: /myassets/thumbnail_indonesia.jpg
 description: Designed a map to be included in a book on Muslims in Indonesia.
 ---
 
