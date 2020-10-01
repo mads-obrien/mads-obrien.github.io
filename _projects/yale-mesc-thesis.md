@@ -9,8 +9,8 @@ description: Did the big scary thing! With drones
 #### *"UAV deployment for fine-scale CO2 estimation in a mid-size city"* 
 
 {% capture carousel_images %}
-https://bit.ly/2BBbVhc
-https://bit.ly/2DOtxXB
+/myassets/20191014_143542.jpg
+/myassets/20191014_152754.jpg
 {% endcapture %}
 {% include elements/carousel.html %}
 

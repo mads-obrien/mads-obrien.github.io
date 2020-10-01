@@ -5,11 +5,9 @@ permalink: /press/
 weight: 4
 ---
 
-# **Press**
+A collection of news clips, publications, and blog posts adjacent to the academic and professional work I have done.
 
-Some people have written really nice things, partially about me.
-
-### My Publications
+### Peer-reviewed Articles
 
 *Accepted, in press.* McCann, B. T., Davis, J., Osborne, D., Durham, C., **O’Brien, M.**, and Raymond, N. A. (2020). Quantifying climate change relevant humanitarian programming and spending across five highly disaster vulnerable countries. *Disasters.* [doi.org/10.1111/disa.12453](https://doi.org/10.1111/disa.12453)  
 View on [ReliefWeb](https://reliefweb.int/report/syrian-arab-republic/quantifying-climate-change-relevant-humanitarian-programming-and)
@@ -25,8 +23,8 @@ View on [ReliefWeb](https://reliefweb.int/report/syrian-arab-republic/quantifyin
 ### Other
 * 2020 June 29 - ["Beauty: Who Decides?" with Richard Prum and Byron Kim](https://www.youtube.com/watch?v=PfYNU5XeuzU) - the Yale Peabody Museum's first virtual iteration of Peabody Science Cafe, a series moderated by yours truly.
 * 2020 Feb - [Job Tips and Vibe Checks: FES in DC 2020](https://environment.yale.edu/blog/2020/02/job-tips-and-vibe-checks-fes-in-dc-2020/ ) - Blog post that I wrote about FES in DC, the school's annual job trek.
-* 2019 Fall - Brief feature in the [Fall 2019 issue](https://environment.yale.edu/content/documents/00016720/Canopy-Fall-2019.pdf) of _Canopy_, the Yale F&ES alumni magazine. (Page 10)
-* 2019 August - The MESc-MFS handbook for students at the Yale School of the Environment -- I assisted in writing / overhauling this document, which is a guide for research students in a primarily professional school. 
+* 2019 Fall - Brief feature on my thesis research in the [Fall 2019 issue](https://environment.yale.edu/content/documents/00016720/Canopy-Fall-2019.pdf) of _Canopy_, the Yale F&ES alumni magazine. (Page 10)
+* 2019 August - I assisted in authoring / overhauling the [MESc-MFS Handbook](https://environment.yale.edu/content/documents/00017842/MESc-and-MFS-Student-Handbook-2020-2021.pdf?1598893030) for students at the Yale School of Environment, which is a guide for research students in a primarily professional school. 
 * Gave a talk on GIS careers at Wesleyan (get a copy of Kim Diver's poster maybe?)
 
 
