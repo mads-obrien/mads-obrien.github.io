@@ -1,13 +1,16 @@
 ---
-name: ArcFootprint
-tools: [yale, gis, python]
-image: /myassets/thumbnail_arcfootprint.jpg
-description: Wrote a custom ArcToolbox tool for gas footprint estimation.
+name: Geologic Mapping Tutorial
+tools: [arcgis, stanford, tutorial, writing]
+image: /myassets/thumbnail_geologic_tutorial.png
+description: Wrote a 3-hour tutorial for creating geologic maps using the USGS GEMS framework.
 ---
 
 ## Title of Project ##
 
 ![A photo](http://placekitten.com/400/375)
+
+{% include elements/button.html link="/myassets/Geologic-Mapping-with-EsriNCGMP-nocomments.pdf" text="View tutorial PDF" style="primary" size="sm" %}
+{% include elements/button.html link="/myassets/WorkshopData.zip" text="Download tutorial data .zip" style="primary" size="sm" %}
 
 Here, $$\textbf{D}$$ is the dropout *layer* or operator which sets a subset of its input randomly to zero with dropout probability `p`. This modification can be adopted for any other RNN architecture.
 

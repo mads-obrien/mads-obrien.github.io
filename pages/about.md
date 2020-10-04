@@ -14,7 +14,7 @@ weight: 3
 
 ![A photo of me](/myassets/columbia_summer_600x296.jpg){: .image-left }
 
-**Mads O'Brien** is a specialist in geospatial methods with over X years of experience. She is passionate about applying satellite imagery to natural hazards, as well as low-cost and crowdsourced environmental data collection. 
+**Mads O'Brien** is a specialist in geospatial methods with over 6 years of geospatial experience. She is passionate about applying satellite imagery to natural hazards, as well as low-cost and crowdsourced environmental data collection. 
 
 
 She is a recent graduate of the [Yale School of the Environment](https://environment.yale.edu/). Her [masters thesis](www.google.com) tests whether UAV-acquired carbon dioxide data can reduce uncertainties in urban emissions estimates. 
@@ -39,7 +39,7 @@ Earth & Environmental Science, Science and Society
 ### I am currently... ###
 * Seeking jobs in the San Francisco Bay Area as a geospatial analyst, geoscientist, or geographer
 * Living and working remotely on the Olympic Peninsula
-* Reading _City of Girls_ by Elizabeth Gilbert
+* Reading _In Defense of Food_ by Michael Pollan
 * Entering the bread-baking phase of COVID much later than everyone else
 
 _(last updated September 28, 2020)_

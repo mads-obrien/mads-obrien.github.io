@@ -1,17 +1,16 @@
 ---
-name: Humanitarian Aid & Climate Change
-tools: [yale, writing, speaking]
-image: /myassets/thumbnail_humanitarian.jpg
-description: Helped write a paper and presented in Geneva, Switzerland.
+name: Indonesia Map
+tools: [arcgis, cartography, illustrator, yale]
+image: /myassets/thumbnail_indonesia.jpg
+description: Designed a map to be included in a book on Muslims in Indonesia.
 ---
 
 ## Title of Project ##
 
 ![A photo](http://placekitten.com/400/375)
 
-We are published!
-Citation: *Accepted, in press.* McCann, B. T., Davis, J., Osborne, D., Durham, C., **O’Brien, M.**, and Raymond, N. A. (2020). Quantifying climate change relevant humanitarian programming and spending across five highly disaster vulnerable countries. *Disasters.* [doi.org/10.1111/disa.12453](https://doi.org/10.1111/disa.12453)
-View on [ReliefWeb](https://reliefweb.int/report/syrian-arab-republic/quantifying-climate-change-relevant-humanitarian-programming-and)
+{% include elements/button.html link="/myassets/Indonesia_fullpg.pdf" text="Full hi-res map PDF" style="primary" size="sm" %}
+{% include elements/button.html link="https://www.cambridge.org/us/academic/subjects/history/south-east-asian-history/indonesias-islamic-revolution?format=HB&isbn=9781108487870" text="Preview the book" style="primary" size="sm" %}
 
 Here, $$\textbf{D}$$ is the dropout *layer* or operator which sets a subset of its input randomly to zero with dropout probability `p`. This modification can be adopted for any other RNN architecture.
 

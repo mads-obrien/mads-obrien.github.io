@@ -1,8 +1,8 @@
 ---
-name: Web Mapping Tutorial for Rumsey Map Center
-tools: [stanford, gis, education]
-image: /myassets/thumbnail_rumsey_tutorial.png
-description: Wrote a tutorial to teach novices how to use historical web maps.
+name: Veg Analysis of Mammoth Mtn
+tools: [arcgis, data analysis, photogrammetry, remote sensing, usgs]
+image: /myassets/thumbnail_mammoth_mtn.jpg
+description: Used historical imagery to track deforestation on Mammoth Mountain, CA.
 ---
 
 ## Title of Project ##

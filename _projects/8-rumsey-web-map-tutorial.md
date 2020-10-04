@@ -1,13 +1,15 @@
 ---
-name: Veg Analysis of Mammoth Mtn
-tools: [ArcMap, gis]
-image: /myassets/thumbnail_mammoth_mtn.jpg
-description: Used historical imagery to track deforestation on Mammoth Mountain, CA.
+name: Web Mapping Tutorial for Rumsey Map Center
+tools: [arcgis online, georeferencer, stanford, tutorial, writing]
+image: /myassets/thumbnail_rumsey_tutorial.png
+description: Wrote a tutorial to teach novices how to use historical web maps.
 ---
 
 ## Title of Project ##
 
 ![A photo](http://placekitten.com/400/375)
+
+{% include elements/button.html link="/myassets/Wkshp1-DavidRumseycomGeoreferencer_v4-nocomments.pdf" text="View first tutorial PDF" style="primary" size="sm" %}
 
 Here, $$\textbf{D}$$ is the dropout *layer* or operator which sets a subset of its input randomly to zero with dropout probability `p`. This modification can be adopted for any other RNN architecture.
 

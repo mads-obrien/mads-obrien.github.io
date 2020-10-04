@@ -4,11 +4,20 @@ title: Press
 permalink: /press/
 weight: 4
 ---
+<style type="text/css">
+.image-right {
+	display: block; 
+	padding-left: 15px;
+	float: right;
+}
+</style>
+
 
 A collection of news clips, publications, and blog posts adjacent to the academic and professional work I have done.
 
-### Peer-reviewed Articles
+![Disasters cover](/myassets/disasters_cover.jpg){: .image-right }
 
+### Peer-reviewed Articles  
 *Accepted, in press.* McCann, B. T., Davis, J., Osborne, D., Durham, C., **O’Brien, M.**, and Raymond, N. A. (2020). Quantifying climate change relevant humanitarian programming and spending across five highly disaster vulnerable countries. *Disasters.* [doi.org/10.1111/disa.12453](https://doi.org/10.1111/disa.12453)  
 View on [ReliefWeb](https://reliefweb.int/report/syrian-arab-republic/quantifying-climate-change-relevant-humanitarian-programming-and)
 
