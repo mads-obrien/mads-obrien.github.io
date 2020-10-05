@@ -2,7 +2,7 @@
 name: ArcFootprint
 tools: [arcgis, python]
 image: /myassets/thumbnail_arcfootprint.jpg
-description: A custom-built ArcToolbox tool for gas flux footprint estimation, directly within ArcMap.
+description: A custom-built ArcToolbox tool for estimating gas flux footprints directly within ArcMap.
 ---
 
 ## ArcFootprint, an ArcTool for Flux Footprint Estimation ##
@@ -12,7 +12,10 @@ description: A custom-built ArcToolbox tool for gas flux footprint estimation, d
 {% include elements/button.html link="/myassets/OBrien,Mads_FinalProject_ArcFootprint.pdf" text="Full Report PDF" style="primary" size="sm" %}
 {% include elements/button.html link="/myassets/ArcFootprint.zip" text="Download toolbox .zip" style="primary" size="sm" %}
 
-
+*Duration:* Oct 2019 - Dec 2019  
+*Affiliation:* Yale School of Environment  
+*What:* Open-source tool
+*My Role:* Sole analyst and report author
 
 ### The Task:
 
@@ -32,11 +35,6 @@ arcpy.CalculateField_management(mergedpolys, "footptAREA", "float(!SHAPE.area!)"
 arcpy.Sort_management(mergedpolys, mergedsorted, [["footptAREA", "DESCENDING"]])
 ```
 
-
-
-
-
-
 * **Auto-handling of linear unit conversions**. The tool detects whether the linear unit used by the input sensor location’s projection is Feet or Meters. The output ellipses use the same projection as the input sensor location. If input point CRS uses meters, aka  `if spatial_ref.metersPerUnit == 1.0:`, proceed with arithmetic.
 
 ```python
@@ -54,8 +52,7 @@ else:
 ```
 
 
-
-* A **drop-down menu** in the GUI for the user to select the **season, a proxy for boundary layer height**. Since the height of the boundary layer can change dramatically throughout the year, but knowing what value to put in for the boundary layer may be a lot to ask the user, I provided a simple dictionary that inserts a suitable estimate for BLH based on observation season.  
+* A **drop-down menu** in the GUI for the user to select the **season, a proxy for atmospheric boundary layer height**. Since the height of the boundary layer can change dramatically throughout the year, but knowing what value to put in for the boundary layer may be a lot to ask the user, I provided a simple dictionary that inserts a suitable estimate for BLH based on observation season.  
 
 ```python
 #look up average values of boundary layer height
@@ -68,8 +65,6 @@ seasondictionary = {"Summer (June, July, Aug)": 1000,
 #returns the boundary layer height value as a number
 PBLH = float(seasondictionary[season])
 ```  
-
-
 
 
 << [Back to Projects](/projects/)

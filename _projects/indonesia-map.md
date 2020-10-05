@@ -1,13 +1,18 @@
 ---
-name: Veg Analysis of Mammoth Mtn
-tools: [arcgis, data analysis, photogrammetry, remote sensing, usgs]
-image: /myassets/thumbnail_mammoth_mtn.jpg
-description: Used historical imagery to track deforestation on Mammoth Mountain, CA.
+name: Map of Indonesia
+tools: [arcgis, cartography, illustrator, yale]
+image: /myassets/thumbnail_indonesia.jpg
+description: Designed a map for inclusion in a published book (Cambridge University Press).
 ---
 
 ## Title of Project ##
 
 ![A photo](http://placekitten.com/400/375)
+
+
+{% include elements/button.html link="/myassets/Indonesia_fullpg.pdf" text="Full hi-res map PDF" style="primary" size="sm" %}
+{% include elements/button.html link="https://www.cambridge.org/us/academic/subjects/history/south-east-asian-history/indonesias-islamic-revolution?format=HB&isbn=9781108487870" text="Preview the book" style="primary" size="sm" %}
+
 
 Here, $$\textbf{D}$$ is the dropout *layer* or operator which sets a subset of its input randomly to zero with dropout probability `p`. This modification can be adopted for any other RNN architecture.
 
