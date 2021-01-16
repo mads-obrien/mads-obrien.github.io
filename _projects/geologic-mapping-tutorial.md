@@ -1,56 +1,51 @@
 ---
-name: Geologic Mapping with ArcGIS Tutorial
+name: Tutorial - Geologic Mapping with ArcGIS
 tools: [arcgis, stanford, tutorial, writing]
 image: /myassets/thumbnail_geologic_tutorial.png
 description: A guide for creating geologic maps using the USGS NCGMP09 cartographic standards.
 ---
 
-## Title of Project ##
+## Geologic Mapping with ArcGIS ##
+#### *A self-paced ArcMap tutorial for geologists*
 
-![A photo](http://placekitten.com/400/375)
+![A photo](http://placekitten.com/700/375)
 
 {% include elements/button.html link="/myassets/Geologic-Mapping-with-EsriNCGMP-nocomments.pdf" text="View tutorial PDF" style="primary" size="sm" %}
-{% include elements/button.html link="/myassets/WorkshopData.zip" text="Download tutorial data .zip" style="primary" size="sm" %}
-
+{% include elements/button.html link="/myassets/WorkshopData.zip" text="Download tutorial data .zip" style="primary" size="sm" %}  
 
 *Duration:* Oct 2019 - Dec 2019  
 *Affiliation:* Stanford Geospatial Center  
-*What:* GIS tutorial (instructions and test data) 
+*What:* GIS tutorial (instructions and test data)  
 *My Role:* Tutorial author
 
 
 ### The Task:
 
-I was approached by XXXX in the Stanford Earth department. The Stanford GIS center offers a few intro GIS workshops focusing on raster and vector projects, but the School of Earth was interested in a small course that would be a “second step” after the intro prerequisite for its geology students. The assumptions about the audience are that they will have taken our intro GIS workshop but not much else. Students in the School of Earth will occasionally go on field trips to collect data, then create a digital version of the field mapping they did on paper / on location.
-Goal was for the tutorial to last about 3 hours.
+The Stanford Geospatial Center offers a few intro GIS [workshops](https://library.stanford.edu/research/stanford-geospatial-center/workshops) focusing on raster and vector operations. However, the Director of Field Education at the Stanford School of Earth approached me about creating a small course that would be a “second step” for its geology students, who would have taken the intro GIS workshop but not much else. The audience of the workshop are students who may have created detailed field notes or paper maps, but want to create a digital version.
 
-I saw this tutorial as having two primary goals -- teaching non GIS experts how to use this (somewhat complicated) ESRI template... but also teach them how to execute the most popular or most common tasks to someone creating a geologic map. I relied heavily on my past geology education to ask myself, "What are the bare minimum skills I would want to know how to do on a geologic map, that I would normally include on a paper geologic map?"
 
 ### My Approach:
 
-To make this mapping as “plug and play” as possible, and to help these students create not just any old geologic map but one that follows the guidelines recognized by government and academic geologists, I based my tutorial on following the _____ template designed by the USGS and the NCGKEHDE. *(NOTE: Since the authoring of this tutorial, the new standard is the GEMS framework.)* My instructions teach students how to download this template, in the form of a geodatabase, and enter their field data into the feature classes of the template.
-Introduces students to the handbook for picking geologic map symbology and colors.
-Based off a combination of these tutorials: Ralph Hauregard and .....Penn State person
+I relied heavily on my previous geology education to decide what items one might sketch on a paper map that one would want to know how to include digitally.
 
-I also didn't want to totally re-invent the wheel: the tutorial is partially based on workshop material created by [Roman DiBiase and Erin DiMaggio (Penn State Geosciences)](http://sites.psu.edu/dibiase/teaching/making-a-geologic-map-in-arcgis-10-x/) and a short course by [Ralph Haugerud (USGS)](https://ngmdb.usgs.gov/Info/standards/NCGMP09/).
+To make mapping as “plug and play” as possible, and to help students create a map easily understood by other professionals, I based my tutorial on the NCGMP09 geologic mapping standard, a standardized set of symbols for geologic features developed by the USGS National Cooperative Geologic Mapping Program. *(NOTE: This tutorial was written prior to the 2020 adoption of [GeMS](https://doi.org/10.3133/tm11B10) as USGS's new standardized geologic map schema.)* My instructions teach students how to download this map template in the form of a geodatabase, and how to enter their field data into the feature classes of the template. 
 
-
+I also didn't want to totally re-invent the wheel: the tutorial is partially based on a short course by [Ralph Haugerud (USGS)](https://ngmdb.usgs.gov/Info/standards/NCGMP09/) and workshop material created by [Roman DiBiase and Erin DiMaggio (Penn State Geosciences)](http://sites.psu.edu/dibiase/teaching/making-a-geologic-map-in-arcgis-10-x/).
 
 ### Outcome highlights:  
 
-* Tutorial uses field data from a site in Hawaii that Stanford Earth has taken students before—plus there is interesting geology and variation there which is good to illustrate in 
-* Talks about two methods for mapping – tracing geologic contacts based on aerial imagery and field observation points, as well as digitizing geologic maps into shapefiles.
-* Personally became familiar with USGS mapping and symbology standards 
-* Teaches users simply about topics such as:
-- agreement of feature classes within a database (coordinate system, topology)
-- creating subtypes within feature classes, and filling in default attribute values
-- creating topology files and checking for topology errors
-- using cartographic representation files (to expedite symbology following existing standards)
-- adding xy data of GPS data collected from a field unit
-- Making VBScript expressions for custom feature labels
-- systematically rotating point symbols based on a "degrees" attribute field (i.e. strike and dip markers)
+The final tutorial constructs a hypothetical geologic map of a site regularly visited by students in Stanford's Wrigley Field Program, tracing geologic contacts based on aerial imagery and field observation points.
 
+![A photo](/myassets/geomap-screenshot.png)
 
+Some topics covered include:
+* Creating subtypes within feature classes, and setting default attribute values for new features
+* Adding XY data collected from a field GPS unit
+* Creating topology files that mirror the rules of geologic mapping and checking for topology errors within a geodatabase
+* Using cartographic representation files to simplify map symbology
+* Making VBScript expressions for custom feature labels
+* Systematically rotating point symbols based on a "degrees" attribute field (i.e. strike and dip markers)
+* Introduce users to USGS mapping and symbology standards 
 
 
 << [Back to Projects](/projects/)

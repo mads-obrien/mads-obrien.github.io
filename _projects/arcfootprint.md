@@ -6,6 +6,7 @@ description: A custom-built ArcToolbox tool for estimating gas flux footprints d
 ---
 
 ## ArcFootprint, an ArcTool for Flux Footprint Estimation ##
+#### *An ArcTool for Flux Footprint Estimation* 
 
 ![A photo](http://placekitten.com/400/375)
 
@@ -14,28 +15,36 @@ description: A custom-built ArcToolbox tool for estimating gas flux footprints d
 
 *Duration:* Oct 2019 - Dec 2019  
 *Affiliation:* Yale School of Environment  
-*What:* Open-source tool
+*What:* Open-source tool  
 *My Role:* Sole analyst and report author
 
 ### The Task:
 
-In Dana Tomlin’s Geospatial Software Design course, my term project was to program an ArcToolbox tool, a GUI that would be easy for others to use. In my previous work, I’d seen flux footprints calculated by my colleagues using the software that comes with the trace gas sensors and flux towers. I wanted to create an easy to use GUI that allows anyone to easily calculate a flux footprint estimate within ArcGIS, where they can input data they’ve collected on their own to just to visualize others’ flux data for mapping purposes.
+In [Dana Tomlin](https://en.wikipedia.org/wiki/Dana_Tomlin)'s *Geospatial Software Design* course, my term project was to program an ArcToolbox tool, a GUI that would be easy for others to use. 
 
+In my previous work, I’d seen flux footprints calculated by my colleagues using the software that comes with the trace gas sensors and flux towers. Lots of software exists to calculate gas flux footprints, but they require standalone software or require advanced programming skills. (Sometimes doesn't play nicely with ArcMap, doesn't directly import. And multi-step conversions increase the lag time between footprint calculation and comparing footprint extent with other spatial datasets.)
+
+
+### Project Goals:
+I wanted to create an easy to use GUI that allows anyone to easily calculate a flux footprint estimate within ArcGIS, where they can input data they’ve collected on their own to just to visualize others’ flux data for mapping purposes.
+
+* Build a user-friendly, point-and-click ArcToolbox tool for generating spatial extents of flux footprints (as shapefiles), based upon meteorological variables collected from gas sensors.
+* Construct separate polygons for each source area (50%, 90%, etc.), making it easy for the user to run subsequent Zonal Statistics within each zone.
+* Create a tool that will not only benefit my own academic research, but hopefully benefit others conducting meteorological research as well.  
+
+![A photo](/myassets/fluxfootprintdialogbox.jpg)
 
 ### Outcome highlights:  
-The code is broken down into two parts: The Kljun et al Python script for generating flux footprints, and then some add-on code that allows those ellipses to be drawn as shapefiles rather than simply plotted in a Python window. 
+The code is broken down into two parts: The `FFP()` function constructed by [Kljun et al (2015)](https://gmd.copernicus.org/articles/8/3695/2015/), and then some add-on code that allows those ellipses to be drawn as shapefiles rather than simply plotted in a Python window. Some features I've added, specifically for ArcMap, include:  
 
-Some features of the tool include:  
-
-* A snippet of code **alters the drawing order of the ellipses**, so that the smallest area always appears on top. This allows for easier symbology when making maps from the flux footprints. SORT THE FEATURES FROM LARGEST TO SMALLEST (based on area), so smaller footprints draw on top of larger ones! (90, 70, etc)  
+* A snippet of code **alters the drawing order of the ellipses**, so that the smallest flux area always appears on top. This allows for easier symbology when making maps from the flux footprints.
 
 ```python
-arcpy.CalculateField_management(mergedpolys, "footptAREA", "float(!SHAPE.area!)", "PYTHON")
-
-arcpy.Sort_management(mergedpolys, mergedsorted, [["footptAREA", "DESCENDING"]])
+arcpy.CalculateField_management(polygons, "footptAREA", "float(!SHAPE.area!)", "PYTHON")
+arcpy.Sort_management(polygons, polygonsSorted, [["footptAREA", "DESCENDING"]])
 ```
 
-* **Auto-handling of linear unit conversions**. The tool detects whether the linear unit used by the input sensor location’s projection is Feet or Meters. The output ellipses use the same projection as the input sensor location. If input point CRS uses meters, aka  `if spatial_ref.metersPerUnit == 1.0:`, proceed with arithmetic.
+* **Linear units are automatically converted, if necessary**. The tool detects whether the linear unit used by the input sensor location’s projection is Feet or Meters. The output ellipses use the same projection as the input sensor location. If input point CRS uses meters, aka  `if spatial_ref.metersPerUnit == 1.0:`, proceed with arithmetic. If not...
 
 ```python
 else:

@@ -1,5 +1,5 @@
 ---
-name: Historical Web Mapping Tutorial for Rumsey Map Center
+name: Tutorial - Historical Web Mapping
 tools: [arcgis online, georeferencer, stanford, tutorial, writing]
 image: /myassets/thumbnail_rumsey_tutorial.png
 description:  A guide for digital humanities novices to use maps from the David Rumsey collection in web maps.
