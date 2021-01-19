@@ -18,28 +18,38 @@ We are published!
 
 *Duration:* Oct 2019 - Dec 2019  
 *Affiliation:* Yale School of Environment  
-*What:* Independant team research project
-*My Role:* Member of author team. Assisted heavily with manuscript writing and revision. Double-checked all statistics from another team member.
+*What:* Extra-curricular research project    
+*My Role:* Assisted heavily with manuscript writing and revision. Double-checked all statistics from another team member.
 
 
-### The Task / The Problem ###
+### The Problem ###
 
-The “Tracking Gap”:
-Climate change is increasing the severity and frequency of natural hazards and associated disasters worldwide, yet there is little data dracking how and whether it is being addressed by humanitarian assistance programmes. In fact, there is currently no standard approach for how to track funding for climate change nor evaluate the impact of programmatic responses by humanitarian actors that relate to climate change. We undertook this study to address this “tracking gap”.
-Continued delay in establishing a shared methodology for tracking and evaluating levels and allocation of climate change funding has potential consequences in limiting the coordination, efficiency, and outcomes of climate change initiatives.
+Climate change is increasing the severity and frequency of natural hazards and associated disasters worldwide. Yet, there is little data tracking how and whether climate change is being addressed by humanitarian assistance programs. In fact, there is currently no standard approach for tracking funding for, or evaluating the impact of, programmatic responses by humanitarian actors that relate to climate change. These methodologies can be expanded to additional countries and may be used to
+understand how humanitarian climate change efforts evolve over time.
+
+Inspired by co-author Jenna Davis's final paper in [Nathaniel Raymond's](https://jackson.yale.edu/person/nathaniel-raymond/) course *Humanitarian Aid*, a team of students undertook this study to address this “tracking gap”.
 
 
 ### Our Approach: ###
 
-This study pilots a novel prototyping a method for classifying spending practices based on programmatic data and vulnerability indexes compiled by UN OCHA (United Nations Office of Humanitarian Affairs). It proposes an initial framework to quantify donor expenditure, locate the
-projects within the humanitarian cluster system, and determine which aspect of the Disaster Management Cycle (DMC) projects facilitate.
-A total of 5558 proposed humanitarian projects from five selected countries during the timeframe of 2016– 2018 were analyzed. These countries are Iraq, Pakistan, Somalia, South Sudan, and Syria. Review of the program proposals illustrated a general lack of consensus on common
-terminology to define climate change-related engagements. These methodologies can be expanded to additional countries and may be used to
-understand how humanitarian climate change efforts evolve over time.
+At its core, this project was text analysis: in absence of a definition for which humanitarian projects consider climate change or not, we created our own definition informed. i.e., If a request for funding contains 2+ vetted key words from the humanitarian aid literature, it is categorized as a climate change related project. 
+
+To test our classification method, my teammates scraped 5000+ official requests for humanitarian funding, from five selected countries, between 2016– 2018. Funding requests meeting the 2+ keyword threshold were selected using VBA/Excel, then (god love em!) my coauthors *manually read* the resulting 1000+ funding requests to determine whether the project truly related to climate change.
 
 ### Outcome highlights: ###
-* Keyword search alone returned 1073 CCR (Climate Change-Related) projects; manual search by the authors returned 99 “true” CCR projects, resulting in a false-positive rate of 17.84%
-* A higher proportion (60%) of climate projects carry a Food Security and Livelihoods (FS&L) cluster designation relative to the population of total projects.( 1.8% of projects included in humanitarian proposals reviewed by the study have a climate change-related component.
-* Of 1361 funded projects, 40 of these projects (~3%) were climate related and received funding. As a whole, ~24% of all projects received funding . No distinct difference between CCR and non-CCR projects in the likelihood of being funded or the level of funding received.
+
+Check out the [paper abstract](https://reliefweb.int/report/syrian-arab-republic/quantifying-climate-change-relevant-humanitarian-programming-and) for some of our key take-away statistics. Some teasers: **Only 1.8%** of projects included in humanitarian proposals reviewed by the study feature a climate change related component. However, it appears climate vs. non-climate related projects still carry the same likelihood of receiving funding.
+
+Below are some of my specific contributions to the project.
+
+![A photo](/myassets/disasters_flowchart.jpg)
+
+* Clarifying and justifying our new (and sometimes not straightforward) methodology in our manuscript. In addition to articulating the method in writing, I created a summary flow-chart to aid reader comprehension, seen above.
+* Served as the unofficial "data analysis advisor" on the team and guided what statistics would be most useful to interrogate our question. Example: I insisted we calculate and include the false-positive rate (17.84%) of our classification method, to quantitatively discuss how it could improve.
+* Double-checked summary statistics calculated by our lead author with my own analysis.
+* Responsible for final "paper optics" before submission, including formatting and citations.
+* Co-presented our findings at Humanitarian Network Partnerships Week 2020 in Geneva, Switzerland.
+* My coauthors and I also met with various stakeholders at ICRC, UN OCHA to discuss this pilot study and solicit advice for future projects.
+
 
 << [Back to Projects](/projects/)
