@@ -16,9 +16,9 @@ description: A pilot study (no pun intended) of an airborne instrument for estim
 {% endcapture %}
 
 {% capture carousel_captions %}
-My first test caption
-Here's a second test caption
-And finally, a third test caption
+UAV platform, with biomet sensors mounted
+Test flight of sensing platform
+Calibrating mobile sensors against a research-grade CO2 sensor
 {% endcapture %}
 
 {% include elements/carousel.html %}
@@ -27,9 +27,9 @@ And finally, a third test caption
 **Duration:** March 2019 - August 2020  
 **Affiliation:** Yale School of the Environment  
 **What:** Master of Environmental Science thesis  
-**My Role:** Everything!
+**My Role:** Almost everything
 
-{% include elements/button.html link="/pages/404.html" text="Full Manuscript PDF" style="primary" size="sm" %}
+{% include elements/button.html link="/pages/404.html" text="Full Manuscript PDF [TBA]" style="primary" size="sm" %}
 {% include elements/button.html link="/myassets/AGU2019_36x60_MAO_v4.pdf" text="View Conference Poster" style="primary" size="sm" %}
 
 
