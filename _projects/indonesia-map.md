@@ -1,8 +1,8 @@
 ---
 name: Map of Indonesia
-tools: [arcgis, cartography, adobe illustrator, yale]
+tools: [arcgis, cartography, adobe illustrator]
 image: /myassets/thumbnail_indonesia.jpg
-description: Designed a map for inclusion in a published book (Cambridge University Press).
+description: I designed a print-friendly map for inclusion in a client's published book (Cambridge University Press).
 ---
 
 ## Map of Indonesia ##
@@ -14,10 +14,10 @@ description: Designed a map for inclusion in a published book (Cambridge Univers
 {% include elements/button.html link="/myassets/Indonesia_fullpg.pdf" text="Full hi-res map PDF" style="primary" size="sm" %}
 {% include elements/button.html link="https://www.cambridge.org/us/academic/subjects/history/south-east-asian-history/indonesias-islamic-revolution?format=HB&isbn=9781108487870" text="Preview the book" style="primary" size="sm" %}
 
-*Duration:* March 2019  
-*Affiliation:* Yale School of Environment  
-*What:* Print-ready map  
-*My Role:* Cartographer
+**Duration:** March 2019  
+**Affiliation:** Yale School of Environment  
+**What:** Print-ready map  
+**My Role:** Cartographer
 
 ### The Task
 

@@ -1,8 +1,8 @@
 ---
 name: Photogrammetry of Fissure 8, Kiauea
-tools: [agisoft photoscan, data analysis, remote sensing, uav, yale]
+tools: [agisoft photoscan, data analysis, remote sensing, uav]
 image: /myassets/thumbnail_fissure_8.jpg
-description: I built a 3D model of a volcanic fissure from drone images during the 2018 Kilauea eruption, to describe changes in the fissure's morphology.
+description: Using drone imgery collected during the 2018 Kilauea eruption, I built a 3D model of a volcanic fissure and quantified changes in the fissure's morphology and volume.
 ---
 
 ## Photogrammetry of Fissure 8, Kiauea ##
@@ -16,10 +16,10 @@ https://bit.ly/2DOtxXB
 
 {% include elements/button.html link="/myassets/OBrienMadeleine_Drones_FinalReport_1-14-19.pdf" text="Full Report PDF" style="primary" size="sm" %}
 
-*Duration:* Oct 2018 - Dec 2018  
-*Affiliation:* Yale School of the Environment  
-*What:* Course project  
-*My Role:* Sole analyst and author
+**Duration:** Oct 2018 - Dec 2018  
+**Affiliation:** Yale School of the Environment  
+**What:** Course project  
+**My Role:** Sole analyst and author
 
 
 After decades of dormancy, Mount Kilauea began actively erupting on May 3, 2018. Fissure #8, which appeared in a populous subdivision, was the most active and most closely observed fissure during this eruption phase. 

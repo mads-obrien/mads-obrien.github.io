@@ -1,8 +1,8 @@
 ---
 name: Tutorial - Historical Web Mapping
-tools: [arcgis online, georeferencer, stanford, tutorial, writing]
+tools: [arcgis online, georeferencer, tutorial, writing]
 image: /myassets/thumbnail_rumsey_tutorial.png
-description:  A guide for digital humanities novices to use maps from the David Rumsey collection in web maps.
+description:  A guide teaching novices in the digital humanities how to use maps from the David Rumsey collection in web applications.
 ---
 
 ## Historical Web Mapping ##
@@ -12,10 +12,10 @@ description:  A guide for digital humanities novices to use maps from the David 
 
 {% include elements/button.html link="/myassets/Wkshp1-DavidRumseycomGeoreferencer_v4-nocomments.pdf" text="View 1st tutorial PDF" style="primary" size="sm" %}
 
-*Duration:* Oct 2019 - Dec 2019  
-*Affiliation:* David Rumsey Map Center  
-*What:* Tutorial series for patrons  
-*My Role:* Tutorial author
+**Duration:** Oct 2019 - Dec 2019  
+**Affiliation:** David Rumsey Map Center  
+**What:** Tutorial series for patrons, primarily academics  
+**My Role:** Tutorial author
 
 ### The Task:
 

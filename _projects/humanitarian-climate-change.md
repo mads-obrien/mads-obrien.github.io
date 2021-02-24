@@ -1,8 +1,8 @@
 ---
 name: Humanitarian Spending on Climate Change
-tools: [data analysis, humanitarian, writing, speaking, yale]
+tools: [data analysis, humanitarian, speaking, writing]
 image: /myassets/thumbnail_humanitarian.jpg
-description: A pilot study, an intimate look at UN funding data to answer the question, "How much money is being explicitly spent on climate change by humanitarian aid agencies?"
+description: Using UN funding data, my research team attempts to answer the question, "How much money do humanitarian aid agencies spend explicitly on climate change?"
 ---
 
 ## Humanitarian Spending on Climate Change ##
@@ -16,10 +16,10 @@ We are published!
 {% include elements/button.html link="https://onlinelibrary.wiley.com/doi/epdf/10.1111/disa.12453" text="View accepted article" style="primary" size="sm" %}
 {% include elements/button.html link="https://reliefweb.int/report/syrian-arab-republic/quantifying-climate-change-relevant-humanitarian-programming-and" text="View on ReliefWeb" style="primary" size="sm" %}
 
-*Duration:* Oct 2019 - Dec 2019  
-*Affiliation:* Yale School of Environment  
-*What:* Extra-curricular research project    
-*My Role:* Assisted heavily with manuscript writing and revision. Double-checked all statistics from another team member.
+**Duration:** Oct 2019 - Dec 2019  
+**Affiliation:** Yale School of Environment  
+**What:** Extra-curricular research project    
+**My Role:** Assisted heavily with manuscript writing and revision. Double-checked all statistics from another team member.
 
 
 ### The Problem ###
