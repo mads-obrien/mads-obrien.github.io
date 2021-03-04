@@ -22,7 +22,7 @@ Previously, Mads has worked as a research assistant at the United States Geologi
 
 > **email me: madsobrien (at) gmail (dot) com**  
 
-{% include elements/button.html link="/pages/pages_assets/Resume_MAO_1pg_Aug2020_no_address.pdf" text="View my resume" style="primary" size="sm" %} {% include elements/button.html link="https://www.linkedin.com/in/obrienma/" text="Connect on LinkedIn" style="primary" size="sm" %}
+{% include elements/button.html link="/myassets/Resume_MAO_1pg_3March2021_nophoneaddress.pdf" text="View my resume" style="primary" size="sm" %} {% include elements/button.html link="https://www.linkedin.com/in/obrienma/" text="Connect on LinkedIn" style="primary" size="sm" %}
 
 ---
 
@@ -51,6 +51,6 @@ _(last updated February 12, 2021)_
 
 ---
 **About this website**  
-Static site generated with [Jekyll](https://jekyllrb.com/){:target="_blank"}, using the open-source theme [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU){:target="_blank"} (plus some tinkering in Bootstrap and Liquid by me). 
+Static site generated with [Jekyll](https://jekyllrb.com/){:target="_blank"}, using the open-source website theme [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU){:target="_blank"} (plus some tinkering in HTML, Bootstrap, and Liquid by me). 
 
 

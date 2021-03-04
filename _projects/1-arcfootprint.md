@@ -5,12 +5,12 @@ image: /myassets/thumbnail_arcfootprint.jpg
 description: A custom-built ArcToolbox tool for estimating gas flux footprints directly within ArcMap.
 --- 
 
-{::options parse_block_html="true" /}
-
 ## ArcFootprint
 #### *An ArcTool for Flux Footprint Estimation* 
 
-![A photo](http://placekitten.com/400/375)
+{% include elements/figure.html image="/myassets/hamdenflightfootprints_2_crop_600px.png" caption="Two gas flux source areas generated with ArcFootprint, based upon UAV-mounted anemometer data in Hamden, CT. This figure appears in my master's thesis manuscript." %}
+
+
 
 {% include elements/button.html link="/myassets/OBrien,Mads_FinalProject_ArcFootprint.pdf" text="Full Report PDF" style="primary" size="sm" %}
 {% include elements/button.html link="/myassets/ArcFootprint.zip" text="Download toolbox .zip" style="primary" size="sm" %}
@@ -29,10 +29,13 @@ Our term project in [Dana Tomlin](https://en.wikipedia.org/wiki/Dana_Tomlin)'s *
 - Construct separate polygons for each source area (50%, 90%, etc.), making it easy for the user to run subsequent Zonal Statistics within each zone.
 - Create a tool that will not only benefit my own academic research, but hopefully benefit others conducting meteorological research as well.  
 
-![A photo](/myassets/fluxfootprintdialogbox.jpg)
+{% include elements/figure.html image="/myassets/fluxfootprintdialogbox.jpg" caption="The ArcFootprint dialog box. View the report (PDF) at the top of this page for more details on each input field." %}
+
+
+{::options parse_block_html="true" /}
 
 ### Outcome highlights:  
-The ArcTool consists of two parts: The `FFP()` function constructed by [Kljun et al (2015)](https://gmd.copernicus.org/articles/8/3695/2015/) for trace gas flux calculation, and then a "wrapping" that allows the function's output ellipses to be drawn as shapefiles rather than plotted in a Python window. Some ArcMap-specific features I've added include:
+The ArcTool consists of two parts: The `FFP()` function constructed by [Kljun et al (2015)](https://gmd.copernicus.org/articles/8/3695/2015/) for trace gas flux calculation, and a "wrapper" that allows the function's output ellipses to draw as shapefiles rather than plot in a Python window. Some ArcMap-specific features I've added include:
 
 ---
 **Altering the drawing order of the ellipses**, so that the smallest flux source area always appears on top. This order makes symbolizing the flux footprint in maps slightly easier. 
@@ -47,7 +50,7 @@ arcpy.Sort_management(polygons, polygonsSorted, [["footptAREA", "DESCENDING"]])
 </details>    
  
 ---
-**Linear units are automatically converted, if necessary**. The output flux footprint ellipses use the same projection as the input sensor location. If input point CRS uses meters, aka  `if spatial_ref.metersPerUnit == 1.0:`, proceed with arithmetic. If not, then:
+**Linear units are automatically converted, if necessary**. The output flux footprint ellipses share the same coordinate reference system (CRS) as the input sensor location. If the input point CRS uses meter units, aka  `if spatial_ref.metersPerUnit == 1.0:`, proceed with arithmetic. If not, then:
 
 <details><summary markdown="span">View code snippet...</summary>
 
@@ -68,7 +71,8 @@ else:
 </details>
 
 ---
-A **drop-down menu** in the GUI lets the user select the **observation season as a proxy for atmospheric boundary layer height**. The height of the boundary layer can change dramatically throughout the year and is an significant parameter in the calculation of flux footprints.  I provide a simple dictionary that inserts a suitable estimate for BLH based on observation season.  
+A **drop-down menu** in the GUI lets the user select the **observation season as a proxy for atmospheric boundary layer height** (BLH). The height of the boundary layer can change dramatically throughout the year and is a significant parameter in the calculation of flux footprints. I created a simple key:value dictionary that selects a suitable BLH estimate to be used in the flux footprint function, based on observation season.  
+
 
 <details><summary markdown="span">View code snippet...</summary>
 

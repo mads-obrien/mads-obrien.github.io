@@ -5,10 +5,10 @@ image: /myassets/thumbnail_indonesia.jpg
 description: I designed a print-friendly map for inclusion in a client's published book (Cambridge University Press).
 ---
 
-## Map of Indonesia ##
-#### *subtitle*  
+## Political map of Indonesia
+##### For inclusion in the monograph *Indonesia's Islamic Revolution*
 
-![A photo](http://placekitten.com/400/375)
+![A photo](/myassets/Indonesia_750px.png)
 
 
 {% include elements/button.html link="/myassets/Indonesia_fullpg.pdf" text="Full hi-res map PDF" style="primary" size="sm" %}
@@ -21,15 +21,15 @@ description: I designed a print-friendly map for inclusion in a client's publish
 
 ### The Task
 
-A history professor and Yale alumnus, [Kevin Fogg](http://www.kevinwfogg.net/), sought a GIS freelancer to create a map for his upcoming book. The map is one of the few lineart figures in the manuscript and aims to communicate the location of the regions discussed in the text--no frills. 
+A history professor and Yale alumnus, [Kevin Fogg](http://www.kevinwfogg.net/), sought a GIS freelancer to create a map for his upcoming publication. The map serves as one of the few lineart figures in the manuscript, and it aims to communicate the location of the regions discussed in the text--no frills. 
 
 ### My Approach
 
-I used public domain [Natural Earth](https://www.naturalearthdata.com/) shapes to produce a low-profile outline of Indonesia, with geometry edits to include new Indonesian provinces created after the latest data. I altered label placement and drop shadows in Adobe Illustrator and ultimately exported the image as a vector / SVG to the publisher.
+I used public domain [Natural Earth](https://www.naturalearthdata.com/) shapes to produce a low-profile outline of Indonesia, with some hand-edited geometry to include new Indonesian provinces created after the latest data release. I altered label placement and drop shadows in Adobe Illustrator and ultimately exported the image as a vector / SVG to the publisher.
 
 ### Outcome Highlights
 
-* Produced professional-looking map with quick turnaround time
+* Produced a professional-looking illustration with very quick turnaround time
 * Iterated drafts quickly with the client
 * Adhered to figure production guidelines from a major publishing company
 

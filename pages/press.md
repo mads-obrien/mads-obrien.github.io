@@ -12,8 +12,9 @@ weight: 4
 }
 </style>
 
-
 *A collection of news clips, publications, and blog posts adjacent to my professional and academic work.*
+
+---
 
 ![Disasters cover](/myassets/disasters_cover.jpg){: .image-right }
 
@@ -26,20 +27,20 @@ The statistical findings from the paper were cited (page 17!) in a subsection of
 #### Peabody Science Cafe
 I moderated six panels and talks for the Yale Peabody Museum as a graduate student, and helped plan even more behind the scenes. When the Museum took its events online during the COVID-19 pandemic, I had the opportunity to moderate some of these talks virtually. 
 
-* 2021 January 21 - "A Look Inside the Extraordinary Formation of Connecticut's Appalachian Mountains" with Duncan Keller (Earth & Planetary Sci.) - [watch here](https://youtu.be/WnHrprqQeag)
-* 2020 December 7 - "The Promise and Perils of Genetic Manipulation" with Jeffrey Powell (Ecology & Evol. Bio.) and Joanna Radin (History) - recording TBA
-* 2020 June 29 - "Beauty: Who Decides?" with Richard Prum (Ecology & Evol. Bio) and Byron Kim (Yale School of Art) - [watch here](https://youtu.be/PfYNU5XeuzU)
-* 2019 November 19 - "A Conversation on Animal Consciousness" with Amanda Dettmer (Yale Child Study Center) and Jonathan Kramnick (Yale English Dept.)
-* 2019 October 1 - "Landscapes and Extraction" with Kate McNally (Anthro. Dept.), Carlos Alonso Nugent (English Dept.), and Simon Queenborough (YSE)
-* 2019 April 30 - "Environmental Adaptation" with Claire Bowern (Yale Linguistics Dept.) and Daniel Gaskell (Dept. of Earth)
+- **2021 January 21** - "A Look Inside the Extraordinary Formation of Connecticut's Appalachian Mountains" with Duncan Keller (Earth & Planetary Sci.) - [watch here!](https://youtu.be/WnHrprqQeag)
+- **2020 December 7** - "The Promise and Perils of Genetic Manipulation" with Jeffrey Powell (Ecology & Evol. Bio.) and Joanna Radin (History) - recording TBA
+- **2020 June 29** - "Beauty: Who Decides?" with Richard Prum (Ecology & Evol. Bio) and Byron Kim (Yale School of Art) - [watch here!](https://youtu.be/PfYNU5XeuzU)
+- **2019 November 19** - "A Conversation on Animal Consciousness" with Amanda Dettmer (Yale Child Study Center) and Jonathan Kramnick (Yale English Dept.)
+- **2019 October 1** - "Landscapes and Extraction" with Kate McNally (Anthro. Dept.), Carlos Alonso Nugent (English Dept.), and Simon Queenborough (YSE)
+- **2019 April 30** - "Environmental Adaptation" with Claire Bowern (Yale Linguistics Dept.) and Daniel Gaskell (Dept. of Earth)
 
 
 
 #### Other
-* 2020 February - [Job Tips and Vibe Checks: FES in DC 2020](https://environment.yale.edu/blog/2020/02/job-tips-and-vibe-checks-fes-in-dc-2020/ ) - Blog post that I wrote about the school's annual job trek to Washington, DC.
-* 2019 Fall - A [brief feature](https://environment.yale.edu/content/documents/00016720/Canopy-Fall-2019.pdf) on my master's thesis appears in the Fall 2019 issue of _Canopy_, the YSE alumni magazine. (Page 10)
-* 2019 August - I assisted in authoring and overhauling the [MESc-MFS Handbook](https://environment.yale.edu/content/documents/00017842/MESc-and-MFS-Student-Handbook-2020-2021.pdf?1598893030) for students at the Yale School of Environment, a guide for research students in a primarily professional school. 
-
+- **2020 February** - [Job Tips and Vibe Checks: FES in DC 2020](https://environment.yale.edu/blog/2020/02/job-tips-and-vibe-checks-fes-in-dc-2020/) - Blog post that I wrote about the school's annual job trek to Washington, DC.
+- **2019 Fall** - A [brief feature](https://environment.yale.edu/content/documents/00016720/Canopy-Fall-2019.pdf) on my master's thesis appears in the Fall 2019 issue of _Canopy_, the YSE alumni magazine. (Page 10)
+- **2019 August** - I assisted in authoring and overhauling the [MESc-MFS Handbook](https://environment.yale.edu/content/documents/00017842/MESc-and-MFS-Student-Handbook-2020-2021.pdf?1598893030) for students at the Yale School of Environment, a guide for research students in a primarily professional school. 
+- **2016 March** - Wesleyan University's newsletter documents the [senior capstone fieldwork](http://newsletter.blogs.wesleyan.edu/2016/03/09/eeshawaii/) of my graduating class on the Big Island of Hawai'i. Includes photos of the pouring rain we had to endure during data collection day...
 
 
 _(last updated February 12, 2021)_

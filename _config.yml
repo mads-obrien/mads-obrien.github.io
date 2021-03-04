@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Mads O'Brien
 description         : >-
-                      I'm a geospatial analyst and earth scientist with a love of field work. Check out my past and current projects.
+                      I'm a geospatial analyst and earth scientist with a love of field work and a desire to be "more than just a mapper." Check out my past and current work!
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
