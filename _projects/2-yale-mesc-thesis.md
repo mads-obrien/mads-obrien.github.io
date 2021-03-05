@@ -35,15 +35,23 @@ Calibrating mobile sensors against a research-grade CO2 sensor
 
 ### The Task:
 
-My unofficial PI, Dr. Natalie Schultz, received a grant from the Connecticut Space Grant Consortium to pilot (no pun intended) a new method for estimating CO2 flux in cities via a sensor-laden UAV platform. I collaborated with her as the first research assistant on the grant. 
+Urban areas and the utilities that serve them generate up to 80% of anthropogenic carbon dioxide (CO2) emissions worldwide [cite]. When we can quantify where, and how much, carbon dioxide is being emitted *within* a city, local emission reduction targets can become more actionable.
+However, it's difficult to estimate carbon flux at such a fine scale using existing atmospheric science methods. 
 
-### My Approach:
+My unofficial thesis PI, Dr. Natalie Schultz, received funding from the Connecticut Space Grant Consortium to build and test a new method for estimating CO2 flux in cities: load a UAV with lightweight, low-cost sensors and fly it in the region of interest. I collaborated with her as the first research assistant on the grant. 
 
-We did a lot of things. A lot of this phase being platform development and testing…. More robust field flight campaigns are a step for later.
-We experimented with instrument placement, to find ideal spot for mounting the sensors on the UAV to avoid the effect of rotor wind. 
+
+A large percentage of my contribution to this project was the platform development and testing phase, with more robust field flight campaigns to follow. We read and experimented extensively regarding instrument placement, to find the ideal spots for mounting sensors on the UAV to avoid the effect of rotor wind. I also designed numerous small-scale experiments to test how our instrumentation would perform under various conditions (i.e., hot weather, strong wind, high altitudes, etc.).
+
 
 
 ### Outcome highlights
-* Based on our literature review, we also calibrated our small, cheap CO2 sensor against a high accuracy one using multiple regression. Wrote a script to convert our “raw” CO2 measurements in the field to the “corrected” ones, based on the parameters (constants) from the regression. CODE SNIPPET? 
+* Using a multivariate regression to calibrate our mobile, low-cost CO2 sensor against a high-precision CO2 and meteorological instrument, we were able to improve upon the manufacturer’s accuracy of the low-cost sensor readings by ~80%. 
+* Wrote a script to convert our “raw” CO2 measurements from the field to the “corrected” ones, based on variable relationships we could quantify in the lab (such as ambient temperature's effect on the recorded CO2 concentration).
+* Used Raspberry Pi script to record observations from small sensors connected via serial port. I revised the initial script (written by another graduate student) as the project progressed, to make sure it kept meeting our needs.
+* Conducted extensive data cleaning and analysis in R.
+* Safely planned and conducted UAV flights in populated areas, adhering to all local and federal regulations.
+
+
 
 << [Back to Projects](/projects/)

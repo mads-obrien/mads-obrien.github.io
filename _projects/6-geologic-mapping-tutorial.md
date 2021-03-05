@@ -8,7 +8,7 @@ description: A guide for creating geologic maps using the USGS NCGMP09 cartograp
 ## Geologic Mapping with ArcGIS ##
 #### *A self-paced ArcMap tutorial for geologists*
 
-![A photo](http://placekitten.com/700/375)
+![A photo](/myassets/thumbnail_geologic_tutorial.png)
 
 {% include elements/button.html link="/myassets/Geologic-Mapping-with-EsriNCGMP-nocomments.pdf" text="View tutorial PDF" style="primary" size="sm" %}
 {% include elements/button.html link="/myassets/WorkshopData.zip" text="Download tutorial data .zip" style="primary" size="sm" %}  
@@ -32,11 +32,11 @@ To make mapping as “plug and play” as possible, and to help students create 
 
 I also didn't want to totally re-invent the wheel: the tutorial is partially based on a short course by [Ralph Haugerud](https://ngmdb.usgs.gov/Info/standards/NCGMP09/) (USGS) and workshop material created by [Roman DiBiase and Erin DiMaggio](http://sites.psu.edu/dibiase/teaching/making-a-geologic-map-in-arcgis-10-x/) (Penn State Geosciences).
 
+{% include elements/figure.html image="/myassets/screenshot_strikedip_representation.jpg" caption="Demonstrating how to create strike/dip symbols that rotate based on a record's strike-angle attribute." %}
+
 ### Outcome highlights:  
 
 The tutorial constructs a hypothetical geologic map of a site regularly visited by Stanford's Wrigley Field Program, tracing geologic contacts based on aerial imagery and field observation points.
-
-![A photo](/myassets/geomap-screenshot.png)
 
 Some topics covered include:
 * Creating subtypes within feature classes and setting default attribute values for new features
@@ -46,6 +46,8 @@ Some topics covered include:
 * Making VBScript expressions for custom feature labels
 * Systematically rotating point symbols based on a "degrees" attribute field (i.e. strike and dip markers)
 * Introduce users to USGS mapping and symbology standards 
+
+![A photo](/myassets/geomap-screenshot.png)
 
 
 << [Back to Projects](/projects/)
