@@ -8,7 +8,7 @@ description: A custom-built ArcToolbox tool for estimating gas flux footprints d
 ## ArcFootprint
 #### *An ArcTool for Flux Footprint Estimation* 
 
-{% include elements/figure.html image="/myassets/hamdenflightfootprints_2_crop_600px.png" caption="Two gas flux source areas generated with ArcFootprint, based upon UAV-mounted anemometer data in Hamden, CT. This figure appears in my master's thesis manuscript." %}
+{% include elements/figure.html image="/myassets/hamdenflightfootprints_2_crop_600px.png" caption="Gas flux source areas generated with ArcFootprint, symbolized by their percent contribution to the total flux. This figure from my master's thesis manuscript is based on data I collected from a UAV-mounted anemometer." %}
 
 
 

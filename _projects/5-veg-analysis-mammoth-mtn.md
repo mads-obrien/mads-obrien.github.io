@@ -48,28 +48,20 @@ My PIs and mentors wished to answer the questions, "How much barren area was pre
 
 ### My Approach ###
 
-I experimented with many image classification methods to select the most suitable method for my historical photographs. This involved reading and synthesizing a lot of seemingly unrelated literature (i.e. machine learning, computer vision) to pick the best technique for my case. Some methods that *didn't* make the cut include: "Let's make all of the images black and white!" and "aslsfalsjfsldjf"
+I experimented with many image classification methods to select the most suitable method for my historical photographs. This involved reading and synthesizing a lot of seemingly unrelated literature (i.e. machine learning, computer vision) to pick the best technique for my case. 
 
-Preliminary tests showed that just small differences in spectral signature used to "train" the classifier led to very large differences in classified image output.
+Preliminary tests showed that small differences in the spectral signatures used to "train" the landcover classes led to very large differences in classified image output. To counteract this variation, I took a Monte-Carlo approach: **classify each photograph 1000 times** based on a random subset of training spectra, and create a final land cover classification based on the average of these 1000 runs.
 
+To control for the effect of image artifacts (i.e heavy shadow) on classification accuracy, I also conducted a landcover classification at an unchanging control site in each photograph, using the same 1000 signature files on which our HSL classifications were based. If the estimated tree-covered area at the control site in a particular image was 25% lower than the mean across the study period, for example, we considered this a 25% under-estimation of the true tree cover due to image artifacts. I could then state whether our HSL classifications under- or over-estimated tree cover and by how much. 
 
-different spectral signatures used to "train" the classifier led to very high variation between supervised classification results for the same image. To counteract this variation, I took a **"Monte-Carlo-ish"** approach: **classify each photograph 1000 times** based on a random subset of training spectra, and create a final land cover classification based on the average of these 1000 runs.
+{% include elements/figure.html image="/myassets/HSL_slide15_change.jpg" caption="Four years of historical photographs overlaid with our ~31.6ha region of interest (top) and the average land cover classification within the region of interest (bottom)." %}
 
-To try and control for the effect of image artifacts on classification accuracy, I classified a separate control site (CS) in each of our respective images 1000 times, using the same 1000 signature files on which our HSL classifications were based. 
-
-We assumed that the true bare area at CS was not changing over time and assumed that the mean of the 23 bare area estimates represented this “true” bare area. By comparing how much the classified BA for that image differed from the “true” CS amount, we calculated a positive or negative percent difference which could be attributed to image artifacts. We then adjusted each of our HSL BA estimates by this percent difference, which increased or decreased the estimate to compensate for under- or over-estimation of bare ground, respectively.
-
-{% include elements/figure.html image="/myassets/HSL_slide15_change.jpg" caption="Four years of historical photographs and their average land cover classification within the region of interest (orange), about 31.6 hectares." %}
-
-
-### Outcome Highlights ###
-
+### Findings ###
 * Between 1951 and 1987, canopy cover at Horseshoe Lake remained relatively constant, with bare ground area beginning to increase in 1992. 
 * Though field observations seemed to indicate that dieoff had stabilized by 2005, our results show more fluctuation in treeless area than expected after that date---possibly due to significant plant regrowth and large windstorms causing tree fall. 
 * Despite subsequent spikes in CO2 flux in the region, the footprint/extent of tree kill remained stable from 2001-2014.
 
-
-
+### Outcome Highlights ###
 * Gained extensive practice in manual georectification of historical images and technical familiarity with various warps used when georectifying
 * Sourced historical photographs from EROS EarthExplorer and the Map & Imagery Laboratory at UC Santa Barbara, and added XX new images to the project's imagery timeline.
 * Improved the classification accuracy from previous summer's work 

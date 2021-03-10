@@ -24,34 +24,30 @@ Calibrating mobile sensors against a research-grade CO2 sensor
 {% include elements/carousel.html %}
 
 
-**Duration:** March 2019 - August 2020  
-**Affiliation:** Yale School of the Environment  
-**What:** Master of Environmental Science thesis  
-**My Role:** Almost everything
-
 {% include elements/button.html link="/pages/404.html" text="Full Manuscript PDF [TBA]" style="primary" size="sm" %}
 {% include elements/button.html link="/myassets/AGU2019_36x60_MAO_v4.pdf" text="View Conference Poster" style="primary" size="sm" %}
 
+**Duration:** March 2019 - August 2020  
+**Affiliation:** Yale School of the Environment  
+**What:** Master of Environmental Science thesis  
+**My Role:** Primary researcher and thesis author
 
 ### The Task:
 
-Urban areas and the utilities that serve them generate up to 80% of anthropogenic carbon dioxide (CO2) emissions worldwide [cite]. When we can quantify where, and how much, carbon dioxide is being emitted *within* a city, local emission reduction targets can become more actionable.
-However, it's difficult to estimate carbon flux at such a fine scale using existing atmospheric science methods. 
+Urban areas and the utilities that serve them generate up to 80% of anthropogenic carbon dioxide (CO2) emissions worldwide [(Satterthwaite, 2008)](https://doi.org/10.1177/0956247808096127). When we can quantify where, and how much, carbon dioxide is being emitted *within* a city, local emission reduction targets can become more actionable. However, it's difficult to estimate intra-city carbon flux using existing atmospheric science methods.
 
-My unofficial thesis PI, Dr. Natalie Schultz, received funding from the Connecticut Space Grant Consortium to build and test a new method for estimating CO2 flux in cities: load a UAV with lightweight, low-cost sensors and fly it in the region of interest. I collaborated with her as the first research assistant on the grant. 
+In collaboration with Dr. Natalie Schultz at Yale's [Center for Earth Observation](https://yceo.yale.edu/), we sought to build and test a new method for estimating CO2 flux in cities: load a UAV with lightweight, low-cost sensors and fly it in the region of interest. I served as her first funded research assistant on her Connecticut Space Grant Consortium award.
 
-
-A large percentage of my contribution to this project was the platform development and testing phase, with more robust field flight campaigns to follow. We read and experimented extensively regarding instrument placement, to find the ideal spots for mounting sensors on the UAV to avoid the effect of rotor wind. I also designed numerous small-scale experiments to test how our instrumentation would perform under various conditions (i.e., hot weather, strong wind, high altitudes, etc.).
-
+I primarily contributed to the platform development and testing phase of this project. I read and experimented extensively to identify the ideal spots for mounting sensors on the UAV, to prevent rotor wind from affecting measurements. I also designed numerous indoor and outdoor experiments to test how our instrumentation would perform under various conditions (i.e., hot weather, strong wind, high altitudes, etc.). Lastly, I led a handful of small data collection deployments around the city of New Haven, and I suggested plans for more robust flight campaigns for the future.
 
 
 ### Outcome highlights
-* Using a multivariate regression to calibrate our mobile, low-cost CO2 sensor against a high-precision CO2 and meteorological instrument, we were able to improve upon the manufacturer’s accuracy of the low-cost sensor readings by ~80%. 
-* Wrote a script to convert our “raw” CO2 measurements from the field to the “corrected” ones, based on variable relationships we could quantify in the lab (such as ambient temperature's effect on the recorded CO2 concentration).
-* Used Raspberry Pi script to record observations from small sensors connected via serial port. I revised the initial script (written by another graduate student) as the project progressed, to make sure it kept meeting our needs.
-* Conducted extensive data cleaning and analysis in R.
-* Safely planned and conducted UAV flights in populated areas, adhering to all local and federal regulations.
+By using a multivariate regression [(Martin et al, 2017)](https://doi.org/10.5194/amt-10-2383-2017) to calibrate our mobile, low-cost CO2 sensor against a high-precision CO2 and meteorological instrument, we were able to **improve upon the sensor manufacturer’s accuracy by ~80%.** 
 
+- Wrote a script to convert our “raw” CO2 measurements from the field to the “corrected” ones, based on variable relationships we could quantify in the lab (such as ambient temperature's effect on the recorded CO2 concentration). 
+- Used a Raspberry Pi script to record observations from small sensors connected via serial port. I continued to revise the initial script as the project progressed as our instrumentation and needs changed.
+- Conducted extensive data cleaning and analysis in R.
+- Safely planned and conducted UAV flights in populated areas as a licensed drone pilot, adhering to all local and federal regulations.
 
 
 << [Back to Projects](/projects/)

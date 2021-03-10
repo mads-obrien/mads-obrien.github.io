@@ -22,14 +22,14 @@ weight: 4
 McCann, B. T., Davis, J., Osborne, D., Durham, C., **O’Brien, M.**, and Raymond, N. A. (2020). Quantifying climate change relevant humanitarian programming and spending across five highly disaster vulnerable countries. *Disasters.* [doi.org/10.1111/disa.12453](https://doi.org/10.1111/disa.12453). *(View on [ReliefWeb](https://reliefweb.int/report/syrian-arab-republic/quantifying-climate-change-relevant-humanitarian-programming-and))*
 
 
-The statistical findings from the paper were cited (page 17!) in a subsection of UN OCHA's [Global Humanitarian Overview 2020](https://www.unocha.org/global-humanitarian-overview-2020 "Global Humanitarian Overview 2020"). Yale School of Environment covered the study above on their [blog](https://environment.yale.edu/news/article/yaleled-study-cited-by-un-shows-lack-of-funding-for-climate-change-in-disaster-relief/) and on [Twitter](https://twitter.com/EnvironmentYale/status/1225853881025990660). Our new friend Jo also gave us a shoutout in [her blog post](https://www.redr.org.uk/Blog/February/My-Five-Takeaways-from-the-Humanitarian-Networks-a) about HNPW 2020! 
+The statistical findings from this paper were cited in a subsection of UN OCHA's [Global Humanitarian Overview 2020](https://reliefweb.int/report/world/global-humanitarian-overview-2020-enarfrzh) (find us on page 17!). Yale School of Environment covered the study above on their [blog](https://environment.yale.edu/news/article/yaleled-study-cited-by-un-shows-lack-of-funding-for-climate-change-in-disaster-relief/) and on [Twitter](https://twitter.com/EnvironmentYale/status/1225853881025990660). RedR UK mentioned us in a [blog post](https://www.redr.org.uk/Blog/February/My-Five-Takeaways-from-the-Humanitarian-Networks-a) on HNPW 2020, as well. 
 
 #### Peabody Science Cafe
 I moderated six panels and talks for the Yale Peabody Museum as a graduate student, and helped plan even more behind the scenes. When the Museum took its events online during the COVID-19 pandemic, I had the opportunity to moderate some of these talks virtually. 
 
-- **2021 January 21** - "A Look Inside the Extraordinary Formation of Connecticut's Appalachian Mountains" with Duncan Keller (Earth & Planetary Sci.) - [watch here!](https://youtu.be/WnHrprqQeag)
+- **2021 January 21** - "A Look Inside the Extraordinary Formation of Connecticut's Appalachian Mountains" with Duncan Keller (Earth & Planetary Sci.) - [video](https://youtu.be/WnHrprqQeag)
 - **2020 December 7** - "The Promise and Perils of Genetic Manipulation" with Jeffrey Powell (Ecology & Evol. Bio.) and Joanna Radin (History) - recording TBA
-- **2020 June 29** - "Beauty: Who Decides?" with Richard Prum (Ecology & Evol. Bio) and Byron Kim (Yale School of Art) - [watch here!](https://youtu.be/PfYNU5XeuzU)
+- **2020 June 29** - "Beauty: Who Decides?" with Richard Prum (Ecology & Evol. Bio) and Byron Kim (Yale School of Art) - [video](https://youtu.be/PfYNU5XeuzU)
 - **2019 November 19** - "A Conversation on Animal Consciousness" with Amanda Dettmer (Yale Child Study Center) and Jonathan Kramnick (Yale English Dept.)
 - **2019 October 1** - "Landscapes and Extraction" with Kate McNally (Anthro. Dept.), Carlos Alonso Nugent (English Dept.), and Simon Queenborough (YSE)
 - **2019 April 30** - "Environmental Adaptation" with Claire Bowern (Yale Linguistics Dept.) and Daniel Gaskell (Dept. of Earth)

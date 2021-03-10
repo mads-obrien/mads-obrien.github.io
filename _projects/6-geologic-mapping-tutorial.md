@@ -30,7 +30,7 @@ I relied heavily on my previous geology education to distill the tutorial to the
 
 To make mapping as “plug and play” as possible, and to help students create a map easily understood by other professionals, I based my tutorial on the **NCGMP09 geologic mapping standard**, a standardized set of symbols for geologic features developed by the USGS National Cooperative Geologic Mapping Program. *(NOTE: This tutorial was written prior to the 2020 adoption of [GeMS](https://doi.org/10.3133/tm11B10) as USGS's new standardized geologic map schema.)* My instructions teach students how to download this map template in the form of a geodatabase, and how to enter their field data into the feature classes of the template. 
 
-I also didn't want to totally re-invent the wheel: the tutorial is partially based on a short course by [Ralph Haugerud](https://ngmdb.usgs.gov/Info/standards/NCGMP09/) (USGS) and workshop material created by [Roman DiBiase and Erin DiMaggio](http://sites.psu.edu/dibiase/teaching/making-a-geologic-map-in-arcgis-10-x/) (Penn State Geosciences).
+I also didn't want to totally re-invent the wheel: the tutorial is partially based on a short course [(zip file, 322MB)](https://ngmdb.usgs.gov/Info/standards/GeMS/docs/MakingMapsWithNCGMP09.zip) by Ralph Haugerud (USGS) and [workshop material](http://sites.psu.edu/dibiase/teaching/making-a-geologic-map-in-arcgis-10-x/) created by Roman DiBiase and Erin DiMaggio (Penn State Geosciences).
 
 {% include elements/figure.html image="/myassets/screenshot_strikedip_representation.jpg" caption="Demonstrating how to create strike/dip symbols that rotate based on a record's strike-angle attribute." %}
 
@@ -47,7 +47,8 @@ Some topics covered include:
 * Systematically rotating point symbols based on a "degrees" attribute field (i.e. strike and dip markers)
 * Introduce users to USGS mapping and symbology standards 
 
-![A photo](/myassets/geomap-screenshot.png)
+
+{% include elements/figure.html image="/myassets/geomap-screenshot.png" caption="Example of the final map users create during the tutorial." %}
 
 
 << [Back to Projects](/projects/)

@@ -18,6 +18,8 @@ description: Using drone imgery collected during the 2018 Kilauea eruption, I bu
 **My Role:** Sole analyst and author
 
 
+### The Task
+
 After decades of dormancy, Mount Kilauea began actively erupting on May 3, 2018. Fissure #8, emerging within a populous subdivision, was the most active and most closely monitored fissure during this eruption. 
 
 For my "Photogrammetry with Drones" course project, I worked with then-unreleased UAV imagery of the fissure (thanks to [Angie Diefenbach]( https://www.usgs.gov/staff-profiles/angie-diefenbach), USGS / VDAP) to try and reproduce findings by USGS analysts.
