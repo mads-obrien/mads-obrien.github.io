@@ -10,13 +10,13 @@ description: Using UN funding data, my research team attempts to answer the ques
 
 {% include elements/figure.html image="/myassets/CCR_fundinglevel_barchart.png" caption="An excerpt from our article: While climate change related humanitarian projects receive funding at the same rates non-climate change related projects do, fewer climate projects exist in the first place." %}
 
-{% include elements/button.html link="https://onlinelibrary.wiley.com/doi/epdf/10.1111/disa.12453" text="View accepted article" style="primary" size="sm" %}
+{% include elements/button.html link="https://doi.org/10.1111/disa.12453" text="View accepted article" style="primary" size="sm" %}
 {% include elements/button.html link="https://reliefweb.int/report/syrian-arab-republic/quantifying-climate-change-relevant-humanitarian-programming-and" text="View on ReliefWeb" style="primary" size="sm" %}
 
 {::options parse_block_html="true" /}
 
 <details><summary markdown="span">Click to view citation:</summary>
-*Accepted, in press.* McCann, B. T., Davis, J., Osborne, D., Durham, C., **O’Brien, M.**, and Raymond, N. A. (2020). Quantifying climate change relevant humanitarian programming and spending across five highly disaster vulnerable countries. *Disasters.* [doi.org/10.1111/disa.12453](https://doi.org/10.1111/disa.12453)
+*Accepted, in press.* McCann, B. T., Davis, J., Osborne, D., Durham, C., **O’Brien, M.**, and Raymond, N. A. (2021). Quantifying climate change relevant humanitarian programming and spending across five highly disaster vulnerable countries. *Disasters.* [doi.org/10.1111/disa.12453](https://doi.org/10.1111/disa.12453)
 
 </details> 
 <br/>

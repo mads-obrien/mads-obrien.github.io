@@ -19,7 +19,7 @@ weight: 4
 ![Disasters cover](/myassets/disasters_cover.jpg){: .image-right }
 
 #### Peer-reviewed Articles  
-McCann, B. T., Davis, J., Osborne, D., Durham, C., **O’Brien, M.**, and Raymond, N. A. (2020). Quantifying climate change relevant humanitarian programming and spending across five highly disaster vulnerable countries. *Disasters.* [doi.org/10.1111/disa.12453](https://doi.org/10.1111/disa.12453). *(View on [ReliefWeb](https://reliefweb.int/report/syrian-arab-republic/quantifying-climate-change-relevant-humanitarian-programming-and))*
+_Accepted, in press._ McCann, B. T., Davis, J., Osborne, D., Durham, C., **O’Brien, M.**, and Raymond, N. A. (2021). Quantifying climate change relevant humanitarian programming and spending across five highly disaster vulnerable countries. *Disasters.* [doi.org/10.1111/disa.12453](https://doi.org/10.1111/disa.12453). *(View on [ReliefWeb](https://reliefweb.int/report/syrian-arab-republic/quantifying-climate-change-relevant-humanitarian-programming-and))*
 
 
 The statistical findings from this paper were cited in a subsection of UN OCHA's [Global Humanitarian Overview 2020](https://reliefweb.int/report/world/global-humanitarian-overview-2020-enarfrzh) (find us on page 17!). Yale School of Environment covered the study above on their [blog](https://environment.yale.edu/news/article/yaleled-study-cited-by-un-shows-lack-of-funding-for-climate-change-in-disaster-relief/) and on [Twitter](https://twitter.com/EnvironmentYale/status/1225853881025990660). RedR UK mentioned us in a [blog post](https://www.redr.org.uk/Blog/February/My-Five-Takeaways-from-the-Humanitarian-Networks-a) on HNPW 2020, as well. 

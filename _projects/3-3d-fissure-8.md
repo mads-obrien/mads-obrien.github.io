@@ -2,7 +2,7 @@
 name: Photogrammetry of Fissure 8, Mount Kilauea, Hawai’i
 tools: [agisoft photoscan, data analysis, remote sensing, uav]
 image: /myassets/thumbnail_fissure_8.jpg
-description: Using drone imgery collected during the 2018 Kilauea eruption, I built a 3D model of a volcanic fissure and quantified changes in the fissure's morphology and volume.
+description: Using drone imagery collected during the 2018 Kilauea eruption, I built a 3D model of a volcanic fissure and quantified changes in the fissure's morphology and volume.
 ---
 
 ## Photogrammetry of Fissure 8, Mount Kilauea, Hawai’i ##

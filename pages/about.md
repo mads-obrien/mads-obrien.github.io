@@ -43,11 +43,11 @@ BA, **Wesleyan University** 2016
 
 ##### I am currently... #####
 * Seeking jobs in the San Francisco Bay Area as a geospatial analyst, geoscientist, or geographer
-* Living in Seattle, WA
+* Living in Silicon Valley
 * Reading _Beloved_ by Toni Morrison
-* Playing around with my new toy: the [Timeular Tracker](https://timeular.com/product/tracker/){:target="_blank"}
+* Enjoying my friend Jesse Bryant's environment/academia newsletter, [All This Life Here](https://jessecallahanbryant.substack.com/)
 
-_(last updated February 12, 2021)_
+_(last updated May 12, 2021)_
 
 ---
 **About this website**  
