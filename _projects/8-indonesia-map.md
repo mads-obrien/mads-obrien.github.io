@@ -8,7 +8,7 @@ description: I designed a print-friendly map for inclusion in a client's publish
 ## Political map of Indonesia
 ##### For inclusion in the monograph *Indonesia's Islamic Revolution*
 
-![A photo](/myassets/Indonesia_750px.png)
+![A photo](/myassets/indonesia_750px.png)
 
 
 {% include elements/button.html link="/myassets/Indonesia_fullpg.pdf" text="Full hi-res map PDF" style="primary" size="sm" %}

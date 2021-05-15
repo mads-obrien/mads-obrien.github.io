@@ -45,7 +45,7 @@ BA, **Wesleyan University** 2016
 * Seeking jobs in the San Francisco Bay Area as a geospatial analyst, geoscientist, or geographer
 * Living in Silicon Valley
 * Reading _Beloved_ by Toni Morrison
-* Enjoying my friend Jesse Bryant's environment/academia newsletter, [All This Life Here](https://jessecallahanbryant.substack.com/)
+* Enjoying my friend Jesse Bryant's environment/academia newsletter, [All This Life Here](https://jessecallahanbryant.substack.com/){:target="_blank"}
 
 _(last updated May 12, 2021)_
 
