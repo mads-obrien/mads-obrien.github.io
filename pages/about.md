@@ -44,10 +44,10 @@ BA, **Wesleyan University** 2016
 ##### I am currently... #####
 * Seeking jobs in the San Francisco Bay Area as a geospatial analyst, geoscientist, or geographer
 * Living in Silicon Valley
-* Reading _Beloved_ by Toni Morrison
-* Enjoying my friend Jesse Bryant's environment/academia newsletter, [All This Life Here](https://jessecallahanbryant.substack.com/){:target="_blank"}
+* Reading _How to Do Nothing: Resisting the Attention Economy_ by Jenny Odell
+* Trying to replicate SF's famous Venezuelan arepas from [Pica Pica](https://missionlocal.org/2021/05/pica-picas-back/){:target="_blank"}
 
-_(last updated May 12, 2021)_
+_(last updated June 24, 2021)_
 
 ---
 **About this website**  

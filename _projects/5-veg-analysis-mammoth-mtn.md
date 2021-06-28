@@ -44,7 +44,7 @@ My PIs and mentors wished to answer the questions, "How much barren area was pre
 
 * Acquire more photographs for the time series to be analyzed, especially those from pre-1990---to establish a vegetation baseline before regular CO2 monitoring of the site began.
 * Develop a consistent image classification method for all the photographs, to quantify the area (m<sup>2</sup>) of barren ground caused by tree kill.
-* Compare the photographs to spatial geochemical data showing the locations of CO2 hotspots over time (Werner et al, 2014) to find spatial patterns or correlations between CO2 spikes and localized pockets of dieoff. 
+* Compare the photographs to spatial geochemical data showing the locations of CO2 hotspots over time ([Werner et al, 2014](https://doi.org/10.1016/j.jvolgeores.2014.10.020)) to find spatial patterns or correlations between CO2 spikes and localized pockets of dieoff. 
 
 ### My Approach ###
 
@@ -68,10 +68,10 @@ To control for the effect of image artifacts (i.e heavy shadow) on classificatio
 * Worked very independently with regular status updates to supervisor. 
 
 
-Sources cited on this page:  
-Cook et al 2001
-Lewicki et al 2014
-(Werner et al, 2014) 
+**Sources cited on this page:**  
+[Cook et al, 2001](https://doi.org/10.1016/S0009-2541(00)00386-7)  
+[Lewicki et al, 2014](https://doi.org/10.1016/j.epsl.2013.12.035)  
+[Werner et al, 2014](https://doi.org/10.1016/j.jvolgeores.2014.10.020)  
 
 
 
