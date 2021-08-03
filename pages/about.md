@@ -16,11 +16,11 @@ weight: 3
 
 **Mads O'Brien** is an interdisciplinary environmental professional with over 6 years of GIS and remote sensing experience. She is passionate about advancing satellite imagery's role in natural resource management and disaster response, as well as low-cost and crowdsourced solutions to environmental data collection.
 
-Mads is a recent graduate of the Yale School of the Environment. Her [master's thesis](/projects/2-yale-mesc-thesis) tests whether UAV-acquired carbon dioxide data can reduce uncertainties in urban emissions estimates. 
+Currently, Mads is a Senior Geospatial Analyst for [MethaneSAT, LLC](https://www.methanesat.org/){:target="_blank"}. She works primarily on wrangling oil and gas industry data to aid the source attribution of methane emissions imaged by MethaneSAT. 
 
 Previously, Mads worked as a research assistant at the United States Geological Survey's [California Volcano Observatory](https://www.usgs.gov/observatories/california-volcano-observatory){:target="_blank"}, and as a [GIS tutor](https://library.stanford.edu/research/stanford-geospatial-center){:target="_blank"} at Stanford University. Outside of her formal career, she has lived the life of a property manager, a volunteer geophysicist, a student government representative, a camp counselor, an actor, and a nonprofit board member.
 
-> **email me: madsobrien (at) gmail (dot) com**  
+> **email me: maobrien (at) methanesat (dot) org**  
 
 {% include elements/button.html link="/myassets/Resume_MAO_1pg_3March2021_nophoneaddress.pdf" text="View my resume" style="primary" size="sm" %} {% include elements/button.html link="https://www.linkedin.com/in/obrienma/" text="Connect on LinkedIn" style="primary" size="sm" %}
 
@@ -42,12 +42,13 @@ BA, **Wesleyan University** 2016
 ---
 
 ##### I am currently... #####
-* Seeking jobs in the San Francisco Bay Area as a geospatial analyst, geoscientist, or geographer
+* Not seeking new opportunities
+* Open for coffee chats and networking calls
 * Living in Silicon Valley
 * Reading _How to Do Nothing: Resisting the Attention Economy_ by Jenny Odell
-* Trying to replicate SF's famous Venezuelan arepas from [Pica Pica](https://missionlocal.org/2021/05/pica-picas-back/){:target="_blank"}
+* Perfecting my bocce ball game
 
-_(last updated June 27, 2021)_
+_(last updated August 3, 2021)_
 
 ---
 **About this website**  
