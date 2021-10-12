@@ -42,13 +42,13 @@ BA, **Wesleyan University** 2016
 ---
 
 ##### I am currently... #####
-* Not seeking new opportunities
-* Open for coffee chats and networking calls
 * Living in Silicon Valley
-* Reading _How to Do Nothing: Resisting the Attention Economy_ by Jenny Odell
+* Open for coffee chats and networking calls
+* Not seeking new opportunities
+* Reading _Zen and the Art of Motorcycle Maintenance_ by Robert Pirsig
 * Perfecting my bocce ball game
 
-_(last updated August 3, 2021)_
+_(last updated October 11, 2021)_
 
 ---
 **About this website**  
