@@ -23,8 +23,10 @@ American Geophysical Union, Fall Meeting 2016 poster and [abstract](https://ui.a
 
 
 #### :satellite: MethaneSAT
-There's been lots of great news coverage on the MethaneSAT project, but here are a few:
+There's been lots of great news coverage on the MethaneSAT project, but here are a select few:
 
+
+- **2022 March** - The Guardian - 'How satellites may hold the key to the methane crisis' - [article](https://www.theguardian.com/environment/2022/mar/06/how-satellites-may-hold-the-key-to-the-methane-crisis)
 - **2021 November** - Washington Post - 'How satellites could help hold countries to emissions promises made at COP26 summit' - [article](https://www.washingtonpost.com/climate-environment/2021/11/09/cop26-satellites-emissions/){:target="_blank"}
 - **2021 September** - CBS Mornings - 'Scientists build satellite to monitor methane leaks that contribute to global warming' - [video](https://www.youtube.com/watch?v=ak0we7jVOjo){:target="_blank"}
 
@@ -42,5 +44,5 @@ I moderated and helped produce panels and talks for the Yale Peabody Museum as a
 - **2016 March** - Wesleyan University's newsletter documents the [senior capstone fieldwork](http://newsletter.blogs.wesleyan.edu/2016/03/09/eeshawaii/){:target="_blank"} of my graduating class on the Big Island of Hawai'i. Includes photos of the pouring rain we had to endure during data collection day...
 
 
-_(last updated April 17, 2022)_
+_(last updated August 30, 2022)_
 

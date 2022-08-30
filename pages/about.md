@@ -29,13 +29,11 @@ Previously, Mads worked as a research assistant at the United States Geological 
 
 ##### Education #####
 
-![Yale crest](/myassets/fes_crest_50h.png){: .image-left }
-MESc, **Yale School of the Environment** 2020  
+:mortar_board: MESc, **Yale School of the Environment** 2020  
 Environmental Science  
 Thesis: _UAV deployment for fine-scale CO2 estimation in a mid-size city_  
 
-![Wesleyan crest](/myassets/wes_monogram_50h.png){: .image-left }
-BA, **Wesleyan University** 2016  
+:mortar_board: BA, **Wesleyan University** 2016  
 Earth & Environmental Science, Science in Society
 <br>
 <br>
@@ -46,10 +44,10 @@ Earth & Environmental Science, Science in Society
 :house: Living in Silicon Valley  
 :coffee: Open for coffee chats and networking calls  
 :v: Not seeking new opportunities  
-:books: Reading _Balzac and the Little Chinese Seamstress_ by Dai Sijie  
-:art: Scouring thrift stores for art to add to my gallery wall
+:books: Reading _The Immortal Life of Henrietta Lacks_ by Rebecca Skloot  
+:jack_o_lantern: Planning my Halloween costume, debatably too early
 
-_(last updated April 17, 2022)_
+_(last updated August 30, 2022)_
 
 ---
 **About this website**  
