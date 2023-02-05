@@ -23,7 +23,7 @@ Previously, Mads worked as a research assistant at the United States Geological 
 
 > :mailbox:  **email me: maobrien (at) methanesat (dot) org**  
 
-{% include elements/button.html link="/myassets/Resume_MAO_1pg_2021Oct_nophoneaddress.pdf" text="View my resume" style="primary" size="sm" %} {% include elements/button.html link="https://www.linkedin.com/in/obrienma/" text="Connect on LinkedIn" style="primary" size="sm" %}
+{% include elements/button.html link="/myassets/Resume_MAO_1pg_2023Feb_nophoneaddress.pdf" text="View my resume" style="primary" size="sm" %} {% include elements/button.html link="https://www.linkedin.com/in/obrienma/" text="Connect on LinkedIn" style="primary" size="sm" %}
 
 ---
 
