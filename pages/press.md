@@ -11,6 +11,10 @@ weight: 4
 
 
 #### :page_with_curl: Peer-reviewed Articles  
+- **Preprint, in review.** Omara, M., Gautam, R., **O'Brien, M.**, Himmelberger, A., Franco, A., Meisenhelder, K., Hauser, G., Lyon, D., Chulakadaba, A., Miller, C., Franklin, J., Wofsy, S., and Hamburg, S. (2023). Developing a spatially explicit global oil and gas infrastructure database for characterizing methane emission sources at high resolution, Earth Syst. Sci. Data Discuss. [doi.org/10.5194/essd-2022-452.](https://doi.org/10.5194/essd-2022-452)
+
+*From the abstract: "[W]e develop a spatially explicit database of global oil and gas infrastructure, focusing on the acquisition, curation, and integration of public-domain geospatial datasets reported by official government sources, industry, academic, and other non-government entities."*
+
 - McCann, B. T., Davis, J., Osborne, D., Durham, C., **O’Brien, M.**, and Raymond, N. A. (2021). Quantifying climate change relevant humanitarian programming and spending across five highly disaster vulnerable countries. *Disasters.* [doi.org/10.1111/disa.12453](https://doi.org/10.1111/disa.12453){:target="_blank"}. *(View on [ReliefWeb](https://reliefweb.int/report/syrian-arab-republic/quantifying-climate-change-relevant-humanitarian-programming-and){:target="_blank"})*
 
 *The statistical findings from this paper were cited in a subsection of UN OCHA's [Global Humanitarian Overview 2020](https://reliefweb.int/report/world/global-humanitarian-overview-2020-enarfrzh){:target="_blank"} (find us on page 17!). Yale School of Environment covered the study above on their [blog](https://environment.yale.edu/news/article/yaleled-study-cited-by-un-shows-lack-of-funding-for-climate-change-in-disaster-relief/){:target="_blank"} and on [Twitter](https://twitter.com/EnvironmentYale/status/1225853881025990660){:target="_blank"}. RedR UK mentioned us in a [blog post](https://www.redr.org.uk/Blog/February/My-Five-Takeaways-from-the-Humanitarian-Networks-a){:target="_blank"} on HNPW 2020, as well.*
@@ -26,6 +30,7 @@ American Geophysical Union, Fall Meeting 2016 poster and [abstract](https://ui.a
 There's been lots of great news coverage on the MethaneSAT project, but here are a select few:
 
 
+- **2022 July** - Business Insider - 'Satellites can now find the sources of methane leaks. The tech will reshape global climate accountability.' - [article](https://www.businessinsider.com/satellites-locate-source-of-methane-leaks-to-fight-climate-crisis-2022-7)
 - **2022 March** - The Guardian - 'How satellites may hold the key to the methane crisis' - [article](https://www.theguardian.com/environment/2022/mar/06/how-satellites-may-hold-the-key-to-the-methane-crisis)
 - **2021 November** - Washington Post - 'How satellites could help hold countries to emissions promises made at COP26 summit' - [article](https://www.washingtonpost.com/climate-environment/2021/11/09/cop26-satellites-emissions/){:target="_blank"}
 - **2021 September** - CBS Mornings - 'Scientists build satellite to monitor methane leaks that contribute to global warming' - [video](https://www.youtube.com/watch?v=ak0we7jVOjo){:target="_blank"}
@@ -44,5 +49,5 @@ I moderated and helped produce panels and talks for the Yale Peabody Museum as a
 - **2016 March** - Wesleyan University's newsletter documents the [senior capstone fieldwork](http://newsletter.blogs.wesleyan.edu/2016/03/09/eeshawaii/){:target="_blank"} of my graduating class on the Big Island of Hawai'i. Includes photos of the pouring rain we had to endure during data collection day...
 
 
-_(last updated August 30, 2022)_
+_(last updated February 4, 2023)_
 
