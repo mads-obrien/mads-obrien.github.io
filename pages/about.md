@@ -42,15 +42,15 @@ Earth & Environmental Science, Science in Society
 
 ##### I am currently... #####
 :house: Living in Silicon Valley  
-:coffee: Open for coffee chats and networking calls  
+:telephone_receiver: Open for networking calls  
 :v: Not seeking new opportunities  
-:books: Reading _The Immortal Life of Henrietta Lacks_ by Rebecca Skloot  
-:jack_o_lantern: Planning my Halloween costume, debatably too early
+:books: Reading _Bad Feminist_ by Roxane Gay  
+:coffee: Getting really into [James Hoffman](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ){:target="_blank"} coffee videos
 
-_(last updated August 30, 2022)_
+_(last updated February 4, 2023)_
 
 ---
 **About this website**  
-Static site generated with [Jekyll](https://jekyllrb.com/){:target="_blank"}, using the open-source website theme [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU){:target="_blank"} (plus some tinkering in HTML, Bootstrap, and Liquid by me). 
+Static site generated with [Jekyll](https://jekyllrb.com/){:target="_blank"}, using the open-source website theme [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU){:target="_blank"} (plus some tinkering in HTML, Bootstrap, and Liquid by me). _P.S. Click the sun/moon in the menu bar to change the site theme!_
 
 
