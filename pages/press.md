@@ -38,5 +38,5 @@ I moderated and helped produce panels and talks for the Yale Peabody Museum as a
 - **2016 March** - Wesleyan University's newsletter documents the [senior capstone fieldwork](http://newsletter.blogs.wesleyan.edu/2016/03/09/eeshawaii/){:target="_blank"} of my graduating class on the Big Island of Hawai'i. Includes photos of the pouring rain we had to endure during data collection day...
 
 
-_(last updated February 4, 2023)_
+_(last updated January 30, 2026)_
 
