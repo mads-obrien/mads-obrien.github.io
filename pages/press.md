@@ -11,7 +11,7 @@ weight: 4
 
 
 #### :page_with_curl: Peer-reviewed Articles  
-- **Preprint, in review.** Omara, M., Gautam, R., **O'Brien, M.**, Himmelberger, A., Franco, A., Meisenhelder, K., Hauser, G., Lyon, D., Chulakadaba, A., Miller, C., Franklin, J., Wofsy, S., and Hamburg, S. (2023). Developing a spatially explicit global oil and gas infrastructure database for characterizing methane emission sources at high resolution, Earth Syst. Sci. Data Discuss. [doi.org/10.5194/essd-2022-452.](https://doi.org/10.5194/essd-2022-452)
+- Omara, M., Gautam, R., **O'Brien, M.**, Himmelberger, A., Franco, A., Meisenhelder, K., Hauser, G., Lyon, D., Chulakadaba, A., Miller, C., Franklin, J., Wofsy, S., and Hamburg, S. (2023). Developing a spatially explicit global oil and gas infrastructure database for characterizing methane emission sources at high resolution, Earth Syst. Sci. Data Discuss. [doi.org/10.5194/essd-15-3761-2023.](https://doi.org/10.5194/essd-15-3761-2023){:target="_blank"}
 
 *From the abstract: "[W]e develop a spatially explicit database of global oil and gas infrastructure, focusing on the acquisition, curation, and integration of public-domain geospatial datasets reported by official government sources, industry, academic, and other non-government entities."*
 
@@ -24,17 +24,6 @@ weight: 4
 - **O'Brien, M.**, Clor, L. E., Vaughan, R. G., and Hurwitz, S.
 Classifying Historic Images to Quantify Spatial and Temporal Changes in Tree Mortality at Horseshoe Lake (Mammoth Mountain, California). 
 American Geophysical Union, Fall Meeting 2016 poster and [abstract](https://ui.adsabs.harvard.edu/abs/2016AGUFMEP21D0905O/abstract).
-
-
-#### :satellite: MethaneSAT
-There's been lots of great news coverage on the MethaneSAT project, but here are a select few:
-
-
-- **2022 July** - Business Insider - 'Satellites can now find the sources of methane leaks. The tech will reshape global climate accountability.' - [article](https://www.businessinsider.com/satellites-locate-source-of-methane-leaks-to-fight-climate-crisis-2022-7)
-- **2022 March** - The Guardian - 'How satellites may hold the key to the methane crisis' - [article](https://www.theguardian.com/environment/2022/mar/06/how-satellites-may-hold-the-key-to-the-methane-crisis)
-- **2021 November** - Washington Post - 'How satellites could help hold countries to emissions promises made at COP26 summit' - [article](https://www.washingtonpost.com/climate-environment/2021/11/09/cop26-satellites-emissions/){:target="_blank"}
-- **2021 September** - CBS Mornings - 'Scientists build satellite to monitor methane leaks that contribute to global warming' - [video](https://www.youtube.com/watch?v=ak0we7jVOjo){:target="_blank"}
-
 
 #### :microphone: Peabody Science Cafe
 I moderated and helped produce panels and talks for the Yale Peabody Museum as a graduate student. When the Museum took its events online during the COVID-19 pandemic, I had the opportunity to moderate some of these talks virtually. 
